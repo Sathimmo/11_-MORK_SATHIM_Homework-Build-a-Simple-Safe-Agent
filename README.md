@@ -36,4 +36,4 @@ Role-based access control (RBAC) is enforced to secure database operations:
   * *Tool Called*: `borrow_book(user_id=2, book_id=4, quantity=2)`
   * *Tool Result*: `Success! Borrowed 2 copy/copies of 'Java: The Complete Reference'. Due date: 2026-10-11.`
 * **Final Agent Output**:
-  > "Successfully borrowed 2 copies of 'Java: The Complete Reference' by Herbert Schildt. Your active borrowing records have been created with a due date of 2026-10-11."
+  > "Successfully borrowed 2 copies of 'Java: The Complete Reference' by Herbert Schildt. Your active borrowing records have been created with a due date of 2026-10-11."# 11_-MORK_SATHIM_Homework-Build-a-Simple-Safe-Agent
